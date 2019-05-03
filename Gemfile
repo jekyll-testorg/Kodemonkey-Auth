@@ -31,5 +31,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # Jekyll Auth
 gem 'jekyll-auth'
 
-# Need Rake to run in heroku
+# Need to run in heroku
+gem 'puma'
 ruby "2.6.0"
