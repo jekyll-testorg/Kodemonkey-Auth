@@ -29,8 +29,10 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Jekyll Auth
-gem 'jekyll-auth'
+#gem 'jekyll-auth'
 
 # Need to run in heroku
+gem 'rack-jekyll'
+gem 'rake'
 gem 'puma'
 ruby "2.6.0"
