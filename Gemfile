@@ -33,3 +33,4 @@ gem 'jekyll-auth'
 
 # Need Rake to run in heroku
 gem "rake"
+ruby "2.6.0"
