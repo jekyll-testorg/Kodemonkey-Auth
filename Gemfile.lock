@@ -121,6 +121,7 @@ DEPENDENCIES
   jekyll-auth
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
+  rake
   tzinfo-data
 
 BUNDLED WITH
