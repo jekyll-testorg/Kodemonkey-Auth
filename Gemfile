@@ -30,7 +30,7 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Jekyll Auth
-#gem 'jekyll-auth'
+gem 'jekyll-auth', '2.1.1'
 
 # Jekyll Admin
 gem 'jekyll-admin', group: :jekyll_plugins
