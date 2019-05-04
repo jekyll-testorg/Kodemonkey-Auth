@@ -13,6 +13,9 @@ section #login {
   background-color: #f5f5f5;
 }
 
+section #dashboard {
+}
+
 .form-signin {
   width: 100%;
   max-width: 330px;
@@ -71,4 +74,4 @@ section #login {
   @media (min-width: 768px) {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
-  }
+}
